@@ -16,10 +16,10 @@ font-weight: 700;
     .banner-subtitle{margin-top:5px;margin-bottom: 3px;}
     .banner-description{margin-bottom:20px ;}
     header{background-color: lightblue;background-image: url(/header_bg.png),url(/developer.png);  background-repeat: no-repeat;background-position: bottom right,left;background-size:contain;font: display 5px; }
-    .about-title{text-align: center;margin-top:50px ;margin-bottom: 10px;}
+    .about-title{text-align: center;margin-top:0px ;margin-bottom: 10px;}
     main{max-width: 1140px;margin: 0 auto }
     .about-me{margin-top: 50px;background-color: lightblue;padding: 156px;align-content: center;}
     .about-description{text-align: center;}
-    .about-info{display: flex;justify-content: space-around;}
+    .about-info{display: flex;justify-content: space-around;margin-top: 50px;}
     .Info-title{font-size: 20px;}
     .Info-des{font-weight: bold;}
